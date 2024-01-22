@@ -1,0 +1,28 @@
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.AssemblyInfoInputs.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.AssemblyInfo.cs
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.csproj.CoreCompileInputs.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\calulatorSwitch.exe
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\calulatorSwitch.deps.json
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\calulatorSwitch.runtimeconfig.json
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\bin\Debug\net8.0\calulatorSwitch.pdb
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\refint\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.pdb
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\calulatorSwitch.genruntimeconfig.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\New folder\ConsoleApp1\obj\Debug\net8.0\ref\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.AssemblyInfoInputs.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.AssemblyInfo.cs
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.csproj.CoreCompileInputs.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\bin\Debug\net8.0\calulatorSwitch.exe
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\bin\Debug\net8.0\calulatorSwitch.deps.json
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\bin\Debug\net8.0\calulatorSwitch.runtimeconfig.json
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\bin\Debug\net8.0\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\bin\Debug\net8.0\calulatorSwitch.pdb
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\refint\calulatorSwitch.dll
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.pdb
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\calulatorSwitch.genruntimeconfig.cache
+C:\Users\NunoMineiro\OneDrive - mainhub.pt\Desktop\calculaterwithswitch\calculaterwithswitch\obj\Debug\net8.0\ref\calulatorSwitch.dll
